@@ -103,7 +103,7 @@ body{
 
 #category_dropdown a{
     display: block;
-    color: black;
+    color: blue;
     background-color: hsl(0, 0%, 92%);
     text-decoration: none;
     padding: 10px 15px;
@@ -142,7 +142,7 @@ body{
 }
 
 #event_input{
-    margin-top: 5%;
+    margin-top: 6%;
 }
 
 #category_dropdown{
