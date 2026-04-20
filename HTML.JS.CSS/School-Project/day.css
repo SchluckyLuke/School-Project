@@ -103,7 +103,7 @@ body{
 
 #category_dropdown a{
     display: block;
-    color: blue;
+    color: black;
     background-color: hsl(0, 0%, 92%);
     text-decoration: none;
     padding: 10px 15px;
